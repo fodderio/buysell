@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Hamburger Jallopy",
+    "description": "Freshly prepared hamburger with meat that was pampered from birth.",
+    "price": 500,
+    "image": "https://th.bing.com/th/id/R.d26615286cbe2455c143becd2344fbc3?rik=q7s4b9qC7WeHkg&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 2,
+    "name": "Fillet Minion",
+    "description": "Prepared with coriander seeds by priests who prayed and fasted for 6 days.",
+    "price": 1500,
+    "image": "https://th.bing.com/th/id/R.708385a47cc92f50fdfd0c0a26e5a7f3?rik=YW5khzplNah1sA&riu=http%3a%2f%2fwww.mattiatraverso.it%2fimages%2fFood2016%2fFood.jpg&ehk=lMIhlY%2bOjIs%2fbpDoFuYC%2fXaqb7t5Bkk99YphHiji0Q0%3d&risl=&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 3,
+    "name": "Avocado Frise",
+    "description": "Made from avocado trees that are only handled with Gucci gloves.",
+    "price": 1400,
+    "image": "https://th.bing.com/th/id/OIP.p9gMRIlEGPGS7tPzVRmjBgHaHa?pid=ImgDet&w=800&h=800&rs=1"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Chin-chin",
+    "description": "Made from fresh dough and spring water.",
+    "price": 850,
+    "image": "https://www.mydiasporakitchen.com/wp-content/uploads/2021/04/5B32CC1A-7B2F-4283-B22B-F90FADE6F21B.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Original puff-puff",
+    "description": "Filling, tasty, healthy.",
+    "price": 920,
+    "image": "https://cheflolaskitchen.com/wp-content/uploads/2020/07/DSC0048-plantain-puff-puff-Pictures-plantain-puff-puff.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Affang Soup",
+    "description": "Affang with class. With local recipe.",
+    "price": 2800,
+    "image": "https://www.thedreamafrica.com/wp-content/uploads/2018/02/Afang-soup-recipe-1-e1560961354405.jpg"
+  }
+]
